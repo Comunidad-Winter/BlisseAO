@@ -1,0 +1,34 @@
+Línea 72: la clase MSComctlLib.Slider del control Slider1 no era una clase de control cargada.
+Línea 85: la clase MSComctlLib.Slider del control Slider2 no era una clase de control cargada.
+Línea 98: la clase MSComctlLib.Slider del control Slider3 no era una clase de control cargada.
+Línea 263: la clase MSComctlLib.Slider del control MusicaVol no era una clase de control cargada.
+Línea 275: la clase MSComctlLib.Slider del control SonidoVol no era una clase de control cargada.
+Línea 78: el nombre de la propiedad _ExtentX de Slider1 no es válido.
+Línea 79: el nombre de la propiedad _ExtentY de Slider1 no es válido.
+Línea 80: el nombre de la propiedad _Version de Slider1 no es válido.
+Línea 81: el nombre de la propiedad Max de Slider1 no es válido.
+Línea 82: el nombre de la propiedad SelStart de Slider1 no es válido.
+Línea 83: el nombre de la propiedad Value de Slider1 no es válido.
+Línea 91: el nombre de la propiedad _ExtentX de Slider2 no es válido.
+Línea 92: el nombre de la propiedad _ExtentY de Slider2 no es válido.
+Línea 93: el nombre de la propiedad _Version de Slider2 no es válido.
+Línea 94: el nombre de la propiedad Max de Slider2 no es válido.
+Línea 95: el nombre de la propiedad SelStart de Slider2 no es válido.
+Línea 96: el nombre de la propiedad Value de Slider2 no es válido.
+Línea 104: el nombre de la propiedad _ExtentX de Slider3 no es válido.
+Línea 105: el nombre de la propiedad _ExtentY de Slider3 no es válido.
+Línea 106: el nombre de la propiedad _Version de Slider3 no es válido.
+Línea 107: el nombre de la propiedad Min de Slider3 no es válido.
+Línea 108: el nombre de la propiedad SelStart de Slider3 no es válido.
+Línea 109: el nombre de la propiedad Value de Slider3 no es válido.
+Línea 269: el nombre de la propiedad _ExtentX de MusicaVol no es válido.
+Línea 270: el nombre de la propiedad _ExtentY de MusicaVol no es válido.
+Línea 271: el nombre de la propiedad _Version de MusicaVol no es válido.
+Línea 272: el nombre de la propiedad Max de MusicaVol no es válido.
+Línea 273: el nombre de la propiedad TickStyle de MusicaVol no es válido.
+Línea 281: el nombre de la propiedad _ExtentX de SonidoVol no es válido.
+Línea 282: el nombre de la propiedad _ExtentY de SonidoVol no es válido.
+Línea 283: el nombre de la propiedad _Version de SonidoVol no es válido.
+Línea 284: el nombre de la propiedad LargeChange de SonidoVol no es válido.
+Línea 285: el nombre de la propiedad Max de SonidoVol no es válido.
+Línea 286: el nombre de la propiedad TickStyle de SonidoVol no es válido.
